@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Timely Loan Planner",
+    "slug": "timely-loan-planner",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.timelycalc.planner"
+    },
+    "plugins": [
+      [
+        "react-native-google-mobile-ads",
+        {
+          "androidAppId": "ca-app-pub-4385379627058219~7345793426"
+        }
+      ]
+    ]
+  }
+}
