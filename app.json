@@ -5,8 +5,14 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "owner": "eshasonawane1031s-team",
+    "splash": {
+      "backgroundColor": "#ffffff"
+    },
     "android": {
-      "package": "com.timelycalc.planner"
+      "package": "com.timelycalc.planner",
+      "splash": {
+        "backgroundColor": "#ffffff"
+      }
     },
     "plugins": [
       [
