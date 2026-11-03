@@ -1,9 +1,10 @@
 {
   "expo": {
     "name": "Timely Loan Planner",
-    "slug": "timely-loan-planner",
+    "slug": "Loan-planner-app",
     "version": "1.0.0",
     "orientation": "portrait",
+    "owner": "eshasonawane1031s-team",
     "android": {
       "package": "com.timelycalc.planner"
     },
@@ -14,6 +15,11 @@
           "androidAppId": "ca-app-pub-4385379627058219~7345793426"
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "b35ff7ca-8de0-4821-bb23-a2347c48a8e9"
+      }
+    }
   }
 }
